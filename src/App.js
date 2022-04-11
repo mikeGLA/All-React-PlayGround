@@ -1,12 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
 import ChartExample from './component/chartjs';
+import AnotherBarChart from './component/anotherBarchart';
 
 
 function App() {
   return (
-    <div>
+    <div>asdasdasdsad
       <ChartExample/>
+      <hr></hr>
+      <AnotherBarChart/>
+
     </div>
   );
 }
